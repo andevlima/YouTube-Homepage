@@ -10,6 +10,12 @@ Free program promoted by <a href="https://www.youtube.com/@SuperSimpleDev">Super
   <a href="#-project">Project</a>
 </p>
 
+<br>
+<p align="center">
+  <img src="./preview/Project preview.png">
+</p>
+<br>
+
 ##  Technologies
 
 This project was developed with the following technologies:
